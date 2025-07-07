@@ -47,7 +47,7 @@ A **real-time blog editing** app that lets you **synchronize blog posts between 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/realtime-blog-editor.git
+git clone https://github.com/aashiis/realtime-blog-editor.git
 cd realtime-blog-editor
 ```
 
