@@ -60,7 +60,7 @@ npm install
 ### 3. Run the Server
 
 ```bash
-npm start
+node ./server.js
 ```
 
 Server runs at: `http://localhost:3000`
@@ -74,21 +74,6 @@ Server runs at: `http://localhost:3000`
 3. Open `http://192.168.1.10:3000` on your mobile browser.
 
 Both devices will now be **in sync**!
-
----
-
-## 🧩 File Structure
-
-```bash
-realtime-blog-editor/
-├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── client.js
-├── server.js
-├── package.json
-└── README.md
-```
 
 ---
 
